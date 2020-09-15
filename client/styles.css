@@ -1,0 +1,17 @@
+.title{
+     text-align:center;
+}
+
+.tweet-form, .loading {
+     width: 50%;
+     margin: 0 auto;
+}
+
+.loading{
+     text-align:center;
+}
+
+.tweetArea{
+     width:75%;
+     margin: 0 auto;
+}
